@@ -5,4 +5,4 @@ project(templates LANGUAGES CXX)
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(templates main.cpp)
+add_executable(templates ulamki.cpp main.cpp)

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dkrata/Desktop/szablony/templates/main.cpp
+stdio.h
+-
+iostream
+-
+ulamki.h
+C:/Users/dkrata/Desktop/szablony/templates/ulamki.h
+
+C:/Users/dkrata/Desktop/szablony/templates/ulamki.h
+iostream
+-
+
