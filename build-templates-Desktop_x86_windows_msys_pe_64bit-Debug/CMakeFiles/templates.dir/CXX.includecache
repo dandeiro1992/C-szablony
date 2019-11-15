@@ -6,15 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dkrata/Desktop/szablony/templates/main.cpp
-stdio.h
--
-iostream
--
+C:/Users/dkrata/Desktop/szablony/templates/ulamki.cpp
 ulamki.h
 C:/Users/dkrata/Desktop/szablony/templates/ulamki.h
 
 C:/Users/dkrata/Desktop/szablony/templates/ulamki.h
 iostream
+-
+cmath
 -
 
